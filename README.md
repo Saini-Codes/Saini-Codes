@@ -15,8 +15,6 @@ Hi, I'm Saini Paul, an MCA student at Techno India Hooghly (2025–2027) with a 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saini-Codes&theme=radical&hide_border=false&layout=compact&langs_count=8)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saini-Codes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Saini-Codes&theme=react-dark&hide_border=false)
