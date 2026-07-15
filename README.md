@@ -16,11 +16,11 @@ Hi, I'm Saini Paul, an MCA student at Techno India Hooghly (2025–2027) with a 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saini-Codes&theme=tokyonight"/>
+  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saini-Codes&theme=tokyonight](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saini-Codes&theme=tokyonight)"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saini-Codes&theme=tokyo-night&hide_border=true"/>
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Saini-Codes&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Saini-Codes&theme=tokyo-night&hide_border=true&area=true)"/>
 </p>
 
 
