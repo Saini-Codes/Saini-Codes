@@ -10,10 +10,6 @@ Hi, I'm Saini Paul, an MCA student at Techno India Hooghly (2025–2027) with a 
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saini-Codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saini-Codes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Saini-Codes&theme=tokyonight&hide_border=true"/>
@@ -27,7 +23,4 @@ Hi, I'm Saini Paul, an MCA student at Techno India Hooghly (2025–2027) with a 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saini-Codes&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saini-Codes&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
 
